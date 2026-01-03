@@ -6,7 +6,7 @@
 
 ## 📂 主なリポジトリ
 
-- [Shiro-bot](https://github.com/skyia-jp/Shiro-bot) - Web開発用テンプレート  
+- [Shiro-bot](https://github.com/skyia-jp/Shiro-bot) - DiscordBot
 
 ---
 
